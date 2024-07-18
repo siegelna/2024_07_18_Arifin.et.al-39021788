@@ -18,6 +18,7 @@ dependencies:
   - r-dt
   - r-openxlsx
   - r-r.utils
+  - r-bulkanalyser
 
   # Bioconductor
   - bioconductor-edger
